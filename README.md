@@ -1,3 +1,7 @@
 # this is a read me
 
-I am trying to learn how to use GitHub.
+Hello,
+
+my name is Lowell and I'm trying to learn how collaborative programming works.
+
+peace
